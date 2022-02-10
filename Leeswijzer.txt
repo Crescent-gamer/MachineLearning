@@ -1,0 +1,12 @@
+In deze repository zijn de volgende 3 mappen te vinden:
+
+Datasets -> Deze map behuisd alle datasets die gebruikt zijn voor het model.
+Regression_Plots -> Deze map behuisd alle regressie png's die tussen 'total_deaths' en alle andere variabelen in de dataset gelopen zijn.
+Trained_Model -> Deze map behuisd een getraind model die door ons gecreëerd was.
+
+Verder zijn er in de 5 andere bestanden te vinden in de repository:
+.gitignore -> De gitignore bestand om onze git repository te managen.
+Machine learning.pdf -> Dit bestand behuisd onze antwoorden op de 5 vragen die tijdens deze casus beantwoord moesten worden.
+Plot_Creator_Regression -> Dit bestand bevat het script die de regressie png's heeft gecreëerd en opgeslagen in de 'Regression_Plots' map.
+Predict_Total_Deaths_With_Saved_Model.ipynb -> Dit bestand bevat het script waarbij het getrainde model wordt gebruikt om 30 dagen in de toekomst te kijken.
+Total_Deaths_LSTM.ipynb -> Dit bestand bevat het script om het neuraal netwerk te trainen.
